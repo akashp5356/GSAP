@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    background-image: url("images/5053309.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.phone{
+    text-align: center;
+    /* background-color: white; */
+    /* height:100vh; */
+ /* background-image:"asus-rog-phone-6-pro-5g-extra.jpg"; */
+}
+.pimg{
+    margin-top: 50vh;
+}
+.name{
+    text-align: center;
+    /* background-color: white; */
+    height:10vh;
+
+ /* background-image:"asus-rog-phone-6-pro-5g-extra.jpg"; */
+}
+.pname{
+    margin-top: 40vh;
+}
+
+.div1{
+    height: 100vh;
+}
+
+.snap{
+   margin-left: 880px;
+    /* background-color: white; */
+    height:10vh;
+    margin-top: -450px;
+}
+
+.details{
+    text-align: right;
+    margin-right: 880px;
+     /* background-color: white; */
+     /* height:10vh; */
+     margin-top: -50px;
+ }
+ .specs{
+    margin-left: 1080px;
+     /* background-color: white; */
+     height:10vh;
+     margin-top: 190px;
+ }
+ 
+ .rog{
+     text-align: right;
+     margin-right: 1080px;
+      /* background-color: white; */
+      /* height:10vh; */
+      margin-top: -110px;
+  }
+.tag{
+    margin-top: 120px;
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue';
+    text-align: center;
+    color: aliceblue;
+}
+
+/* .div2{
+    background-color: salmon;
+} */
+
+/* .square{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+} */
